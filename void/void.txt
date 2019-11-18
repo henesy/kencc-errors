@@ -1,0 +1,6 @@
+tenshi% 6c void.c
+void.c:14 function not declared: ret1
+tenshi% 6l void.6
+tenshi% 6.out
+1
+tenshi% 
