@@ -22,6 +22,8 @@ Mistakes causing the error/warning will be indicated with a comment in the form:
 		...
 	*/
 
+There are notes on finding some compiler errors in hunting.md. 
+
 ## Usage
 
 These examples should be built by hand. No mkfile is provided to this end. 
