@@ -9,6 +9,7 @@
 	
 	Internally, ret1() and ret1(void) are different signatures. 
 */
+
 int
 ret1(/*void*/)
 {

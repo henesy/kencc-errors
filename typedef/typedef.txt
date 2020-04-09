@@ -1,0 +1,4 @@
+tenshi% 6c typedef.c
+typedef.c:11 not a function
+typedef.c:12 syntax error, last name: twice
+tenshi% 
